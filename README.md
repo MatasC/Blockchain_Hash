@@ -51,6 +51,6 @@ Visas laikas yra 0.0261791
 3. Sukūrus 1 000 000 eilučių failą ir jam pritaikius Hash algoritmą, buvo gauti skirtingai atsakymai (nepavyko rasti pasikartojimų). Tačiau, Hash algoritmo atsakymai buvo panašūs, jeigu simboliai buvo arčiau vienas kito pagal ASCII (skaičiai buvo panašesni vienas kitą, artimesni). Toks pasikartojimas buvo dėl Hash algoritmo veikimo principo.  
 4. Dėl aukščiau paminėtų priežasčių, Hash algoritmas nepraeitų testo bitų lygmenyje (skirtumai labai minimalus, nors yra).  
 ## Versijų istorija
-### [v0.1]() - (2019–09–26)
+### [v0.1](https://github.com/MatasC/Blockchain_Hash/releases/tag/v0.1) - (2019–09–26)
 -Sukurtas Hash algoritmas.  
 -Pridėta algoritmo analizė.  
